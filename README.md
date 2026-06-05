@@ -1,5 +1,19 @@
 <div align="center">
 
+# 👋 Hi, I'm Laiba Kashif
+
+### Data Analyst | Turning data into insights
+
+---
+
+### 💜 I work with:
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A020F0&center=true&vCenter=true&width=500&lines=Data+Analyst;Python+Developer;SQL+Expert" />
+
+---
+
+</div>
+<div align="center">
+
 # Hi, I'm Laiba Kashif 👋
 
 ### Data Analyst | SQL | Python | Power BI
