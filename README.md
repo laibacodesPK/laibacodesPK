@@ -1,12 +1,5 @@
 <div align="center">
-
-# 👋 Hi, I'm Laiba Kashif  
-### Data Analyst | Turning data into insights  
-
-<br/>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=A020F0&center=true&vCenter=true&width=650&lines=👋+Hi,+I'm+Laiba+Kashif;Data+Analyst+%7C+Turning+data+into+insights" />
-
 </div>
 ---
 
